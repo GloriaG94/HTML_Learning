@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>GGG</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <table>
+    <td>
+     <img src="https://media.istockphoto.com/photos/cat-gray-wears-stylish-glasses-picture-id1304168317?k=20&m=1304168317&s=612x612&w=0&h=zbr1QeiKuB_POYBKfvJomk2CWZYl231gzL6Vark7Uqc=" alt="GG Profile pic" width="300" height="270"> 
+    </td>
+    <td>
+      <h1>G G</h1>
+      <p><em>Boss <strong>Babe</strong></em></p>
+      <p>Omg so amazing.</p>      
+    </td>
+  </table>
+  <hr>
+  <script src="script.js"></script>
+  <h3>Education</h3>
+  <ul>
+    <li>Uni of hot stuff</li>
+    <li>School of babes</li>
+  </ul>
+ <hr> 
+  <h3>Work Experience</h3>
+  <table >
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Work</th>
+      </tr>
+    </thead>
+    <tr>
+      <td>2018 +</td>
+      <td>Obtaining shiny things on the reg</td>
+    </tr>
+    <tr>
+      <td>2015 - 2018</td>
+      <td>Dark ages</td>      
+    </tr>
+
+  </table>
+   <hr> 
+  
+   <h3>Skills</h3>
+  <table>
+    <tr>
+      <td>
+        <table cellspacing=5>
+          <tr>
+        <td>Drinking Hot Chocolate</td> <td>&#9889;&#9889;&#9889;&#9889;</td>
+          <tr>
+        <td>Buying Nail Polish</td><td> &#9889;&#9889;&#9889;&#9889;&#9889;</td>
+          </tr>
+          </td>
+        </table>
+      </td>
+      <td>
+       <table cellspacing=5>
+                <tr>
+                <td>Dipping buscuits in coffee</td> <td>&#9889;&#9889;</td>
+                <tr>
+                <td>Trying shoelaces properly</td><td> &#9889;</td>
+                </td>
+                </tr>       
+        </table> 
+      </td>
+    </tr>  
+  </table>
+  
+  <hr>
+  <h3>Hobbies</h3>
+    <ol>
+      <li>Dancing</li>
+      <li>Reading</li>
+      <li><a href="https://en.wikipedia.org/wiki/World_of_Warcraft">WoW</a></li>
+    </ol>
+    
+<h3>Contact Me</h3>
+<p>1 Meow Road</p>
+<p>mrrrr_meowgmail.com</p>
+<hr>
+<form action="mailto:gloriaomg@gmail.com" method="post" enctype ="text/plain">
+  <label for="">Your Name:</label>
+  <input type="text" name = "yourName" value = ""> <br>   
+  <label for="">Your Email:</label>
+  <input type="email" name = "yourEmail" value = "">  <br>
+  <label for="">Your Message:</label><br>
+  <textarea rows = 10 cols = 30 name = "yourMessage" value = ""></textarea>
+  <br>
+  <label for="">Would you like to receive cute nail pics every 8 days?</label>
+  <input type="checkbox">
+  <input type="submit"><br>
+</form>
+
+  
+    
+    
+  
+
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <!--<script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
